@@ -1,0 +1,8 @@
+{
+  "name": "FieldFlow - Gestão de Operações de Campo",
+  "description": "Plataforma SaaS para gestão de ordens de serviço, técnicos de campo e relatórios operacionais.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
